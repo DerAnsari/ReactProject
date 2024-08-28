@@ -1,0 +1,20 @@
+.Head{
+    background-color: #A04668;
+    color: #EFD3D7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85px;
+    width: 70%;
+    margin-right: 50%;
+    font-size: 3em;
+    margin: 0%;
+    padding: 0%;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+}
+.bigman{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
